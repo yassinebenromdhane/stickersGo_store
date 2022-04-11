@@ -1,0 +1,28 @@
+{
+  "name": "stickersgo_store",
+  "version": "1.0.0",
+  "description": "stickers store made by yassine_ben romdhane with nuxt js (vue) && node js (espress)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yassinebenromdhane/stickersGo_store.git"
+  },
+  "keywords": [
+    "mevn",
+    "nuxt.js",
+    "js",
+    "node.js",
+    "express",
+    "crud",
+    "store"
+  ],
+  "author": "yassine ben romdhane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yassinebenromdhane/stickersGo_store/issues"
+  },
+  "homepage": "https://github.com/yassinebenromdhane/stickersGo_store#readme"
+}
