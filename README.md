@@ -1,0 +1,1 @@
+# stickersGo_store
