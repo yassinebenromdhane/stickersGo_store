@@ -16,10 +16,13 @@ const stickerSchema= new schema({
      type: Number , 
      default : 0
  },
-//  category : {
-//      type : mongoose.Schema.ObjectId,
-//      ref : "category"
-//  }
+ imageUrl : {
+     type :String ,
+ },
+ category : {
+   type : mongoose.Schema.ObjectId,
+     ref : "category"
+ }
 
 },
 {

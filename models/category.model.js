@@ -10,7 +10,7 @@ const categorySchema= new schema({
  stickers : [
      {
          type : mongoose.Schema.ObjectId,
-         ref : "stickers"
+         ref : "sticker"
      }
  ]
 
